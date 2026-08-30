@@ -6,3 +6,4 @@ chromadb
 flask
 GitPython
 python-dotenv
+-e .
